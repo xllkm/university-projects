@@ -19,6 +19,14 @@ This repository contains some my university projects organized by course.
 - **Data Engineering – Formula 1 Race Results Pipeline**  
   Implemented a data pipeline using SQLite, TinyDB, and PySpark to process and analyze Formula 1 race data.
 
+  - **Software Design & Construction 2  – High-Fidelity Mobile App Prototype**
+    A set of three UI/UX screens created for a university lab assignment.
+    Includes PDF files and interactive Figma prototypes.
+
+🔗 View Prototype
+
+
+
 ---
 
 Feel free to explore each folder to see detailed files and reports for each project.
