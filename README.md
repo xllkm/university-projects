@@ -20,11 +20,8 @@ This repository contains some my university projects organized by course.
   Implemented a data pipeline using SQLite, TinyDB, and PySpark to process and analyze Formula 1 race data.
 
   - **Software Design & Construction 2  – High-Fidelity Mobile App Prototype**
-    A set of three UI/UX screens created for a university lab assignment.
-    Includes PDF files and interactive Figma prototypes.
-
-🔗 View Prototype
-
+  UI/UX prototype for a mobile application designed with Figma.  
+  [View Prototype on Figma](https://www.figma.com/proto/YtX9xNsYiY1fQq5e1no8eZ/Lab1-%D8%AA%D8%B5%D9%85%D9%8A%D9%85?node-id=112-272&node-type=canvas&t=QD6HOZ2dvN8Cueb6-1&scaling=scale-down&content-scaling=fixed&page-id=34%3A103)
 
 
 ---
